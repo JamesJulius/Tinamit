@@ -1,1 +1,1 @@
-from .envolt import ModeloSwatPlus
+from .envolt import ModeloSWATPLUS
