@@ -238,7 +238,7 @@ class Modelo(object):
         símismo.variables.cambiar_vals(valores=valores)
 
     @classmethod
-    def obt_conf(cls, llave, auto=None, cond=None, mnsj_err=None):
+    def obt_conf(cls, llave: object, auto: object = None, cond: object = None, mnsj_err: object = None) -> object:
         """
         Obtiene un valor de configuración de la subclase de modelo.
         
