@@ -27,6 +27,31 @@ class ModeloSWATPLUS(ModeloBF):
             )
         )
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         variables = VariablesSWATPLUS(inic=símismo.dic_ingr)
 
         # Inicializar la clase pariente.
@@ -41,4 +66,3 @@ class ModeloSWATPLUS(ModeloBF):
         return 'Intervalos de 15 minutos' #15 minute intervals
         return 'minutos' #minutes
         return 'incrementos' #increments
-
