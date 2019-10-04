@@ -41,7 +41,6 @@ class ModeloSWATPLUS(ModeloBF):
 
     def _correr_hasta_final(símismo):
         return None
-    #TODO
 
 
     @classmethod
